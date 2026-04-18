@@ -1,0 +1,1 @@
+/* STM32 system file (full content uploaded as provided) */
